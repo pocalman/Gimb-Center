@@ -1,0 +1,1364 @@
+Uri: https://cdn.bc0a.com/autopilot/f00000000237148/autopilot_sdk.js
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\autopilot\f00000000237148\autopilot_sdk.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\ajax\libs\jquery-validate\1.19.0\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\ajax\libs\jquery\3.4.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Jomolhari&display=swap
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Jomolhari&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Hind:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/hind/v16/5aU69_a8oxmIdGl4AQ.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\s\hind\v16\5aU69_a8oxmIdGl4AQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jomolhari/v14/EvONzA1M1Iw_CBd2hsQCFw.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\s\jomolhari\v14\EvONzA1M1Iw_CBd2hsQCFw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://hello.myfonts.net/count/3eea13
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\count\3eea13
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/css/all.css
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-brands-400.ttf
+Content Type: binary/octet-stream
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-brands-400.woff2
+Content Type: binary/octet-stream
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-regular-400.ttf
+Content Type: binary/octet-stream
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-regular-400.woff2
+Content Type: binary/octet-stream
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-solid-900.ttf
+Content Type: binary/octet-stream
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.0.1\webfonts\fa-solid-900.woff2
+Content Type: binary/octet-stream
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/css/all.css
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\releases\v5.13.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\index.htm
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/about
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\about.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/about/job-opportunities
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\about\job-opportunities.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/additional-cataract-surgeries
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\additional-cataract-surgeries.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/alumnus-of-the-year
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\alumnus-of-the-year.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/calgary-eye-doctor-discusses-the-benefits-of-lasik-xtra-on-breakfast-television
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\calgary-eye-doctor-discusses-the-benefits-of-lasik-xtra-on-breakfast-television.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/cbc-radio-profiles-dr-gimbel-and-his-recent-order-of-canada-honour
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\cbc-radio-profiles-dr-gimbel-and-his-recent-order-of-canada-honour.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/dr-gimbel-discusses-lasik-xtra-on-breakfast-television
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\dr-gimbel-discusses-lasik-xtra-on-breakfast-television.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/dr-gimbel-is-one-of-only-six-calgarians-recently-appointed-to-the-order-of-canada
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\dr-gimbel-is-one-of-only-six-calgarians-recently-appointed-to-the-order-of-canada.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/dr-howard-gimbel-has-been-appointed-to-the-order-of-canada
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\dr-howard-gimbel-has-been-appointed-to-the-order-of-canada.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/dr-howard-gimbel-to-transition-to-new-role-at-gimbel-eye-centre
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\dr-howard-gimbel-to-transition-to-new-role-at-gimbel-eye-centre.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/june-is-cataract-awareness-month
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\june-is-cataract-awareness-month.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/lifetime-achievement-award
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\lifetime-achievement-award.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog/patient-spotlight-2018-winter-olympian-emma-lunder-prk-treatment
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog\patient-spotlight-2018-winter-olympian-emma-lunder-prk-treatment.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog?page=0
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog-2.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/blog?page=1
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\blog-1.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/cataract-treatment
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\cataract-treatment.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/co-management-guide
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\co-management-guide.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/contact-us
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/contact-us/lasik-assessment
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\contact-us\lasik-assessment.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/core/misc/icons/000000/move.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\icons\000000\move.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/core/misc/icons/73b355/check.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\icons\73b355\check.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/core/misc/icons/787878/move.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\icons\787878\move.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/core/misc/icons/787878/twistie-down.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\icons\787878\twistie-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/core/misc/icons/787878/twistie-up.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\icons\787878\twistie-up.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/core/misc/icons/e29700/warning.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\icons\e29700\warning.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/core/misc/icons/e32700/error.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\icons\e32700\error.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/core/misc/loading-small.gif
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\loading-small.gif
+Content Type: image/gif
+
+Uri: https://www.gimbeleyecentre.com/core/misc/throbber-active.gif
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\throbber-active.gif
+Content Type: image/gif
+
+Uri: https://www.gimbeleyecentre.com/core/misc/throbber-inactive.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\throbber-inactive.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/core/misc/tree-bottom.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\tree-bottom.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/core/misc/tree.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\core\misc\tree.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/doctors
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\doctors.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/doctors/dr-vikram-lekhi
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\doctors\dr-vikram-lekhi.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/doctors/eye-doctor-helen-chung
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\doctors\eye-doctor-helen-chung.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/doctors/ophthalmologist-bhamra
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\doctors\ophthalmologist-bhamra.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/doctors/ophthalmologist-gimbel
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\doctors\ophthalmologist-gimbel.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/doctors/ophthalmologist-van-westenbrugge
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\doctors\ophthalmologist-van-westenbrugge.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/doctors/ophthalmologist-warrian
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\doctors\ophthalmologist-warrian.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/doctors/optometrist-purba
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\doctors\optometrist-purba.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/doctors/optometrist-sauer
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\doctors\optometrist-sauer.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/documents/gec-refractive-assessment-form-coman.pdf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\documents\gec-refractive-assessment-form-coman.pdf
+Content Type: application/pdf
+
+Uri: https://www.gimbeleyecentre.com/eye-conditions
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\eye-conditions.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/assets/loader.gif
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\css\closedhand.cur
+Content Type: 
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/css/openhand.cur
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\css\openhand.cur
+Content Type: 
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/fonts/revicons/revicons.eot?5510888=
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/fonts/revicons/revicons.svg?5510888=
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/fonts/revicons/revicons.ttf?5510888=
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.gimbeleyecentre.com/libraries/revolution/fonts/revicons/revicons.woff?5510888=
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\libraries\revolution\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/locations
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\locations.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/locations/calgary
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\locations\calgary.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/locations/edmonton
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\locations\edmonton.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/patient-information
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\patient-information.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/patient-information/local-accommodations
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\patient-information\local-accommodations.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/practice-news
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\practice-news.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/privacy-policy
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/sitemap
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sitemap.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/2022-02/Man-with-Cataracts-300x169.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\2022-02\Man-with-Cataracts-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/2022-03/GEC-DEE.mp4
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\2022-03\GEC-DEE.mp4
+Content Type: video/mp4
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/2022-03/home-proc-bg_0.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\2022-03\home-proc-bg_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/css/css_1fKLWXQg5Hhm7F8gDRWNPxVQR85yaiC56xCR6tpVM5g.css
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\css\css_1fKLWXQg5Hhm7F8gDRWNPxVQR85yaiC56xCR6tpVM5g.css
+Content Type: text/css
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/css/css_3bN77ZRCVkuKG_d8zd1yo3oXBFJ-OpMu1BLQolbWAQ4.css
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\css\css_3bN77ZRCVkuKG_d8zd1yo3oXBFJ-OpMu1BLQolbWAQ4.css
+Content Type: text/css
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/css/css_C8ul1Vl4oMWV6MTvOyvtIZUm33-ksKF6yWMwqowfjIw.css
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\css\css_C8ul1Vl4oMWV6MTvOyvtIZUm33-ksKF6yWMwqowfjIw.css
+Content Type: text/css
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/css/css_CBhCBk-qfqcwozsb3V1lAl8ArX5FqYKxDPYuO50SuPk.css
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\css\css_CBhCBk-qfqcwozsb3V1lAl8ArX5FqYKxDPYuO50SuPk.css
+Content Type: text/css
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/css/css_dC4LiB14qVKeWzmgRwzfz-0JuQT1gkXGyKjb7Jlz5Wg.css
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\css\css_dC4LiB14qVKeWzmgRwzfz-0JuQT1gkXGyKjb7Jlz5Wg.css
+Content Type: text/css
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/favicon.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/header-bg/header-1-bg.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\header-bg\header-1-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/header-bg/header-2-bg.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\header-bg\header-2-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/header-bg/header-3-bg.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\header-bg\header-3-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/header-bg/header-4-bg.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\header-bg\header-4-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/header-bg/header-front-bg.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\header-bg\header-front-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/1.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/2.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/3.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/4.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\4.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/ast-home-con.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\ast-home-con.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/astigmatism.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\astigmatism.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/candidate.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\candidate.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/cataract.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\cataract.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/cataract_0.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\cataract_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/Dr-Gimbel-300x199.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\Dr-Gimbel-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/Dr-John-Van-Westenbrugge2.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\Dr-John-Van-Westenbrugge2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/dr-warrian-ophthalmologist.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\dr-warrian-ophthalmologist.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/Dr.-Jamie-Bhamra.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\Dr.-Jamie-Bhamra.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/Dr.-Mona-Purba.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\Dr.-Mona-Purba.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/Dr.-Purba-300x200.jpeg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\Dr.-Purba-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/Dr.-Scott-Sauer.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\Dr.-Scott-Sauer.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/DrHelenChung.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\DrHelenChung.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/far-home-con.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\far-home-con.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/farsightedness-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\farsightedness-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/GEC-DEE.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\GEC-DEE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/GG05-2018-0316-062-300x200.jpeg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\GG05-2018-0316-062-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/gimbeleyecentre1-300x225.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\gimbeleyecentre1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/gimbeleyecentre2-300x225.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\gimbeleyecentre2-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/gimbeleyecentre3-300x225.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\gimbeleyecentre3-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/gimbeleyecentre4-300x225.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\gimbeleyecentre4-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/gimbeleyecentre5-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\gimbeleyecentre5-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/Gimbel_Clinic_Headshots-10-edit.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\Gimbel_Clinic_Headshots-10-edit.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/Gimbel_Dr_Howard.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\Gimbel_Dr_Howard.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/Gimbel_Dr_Howard2.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\Gimbel_Dr_Howard2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/GIMBEL_JUDY_small.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\GIMBEL_JUDY_small.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/hm-dr-mona.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\hm-dr-mona.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/home-dr-scott.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\home-dr-scott.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/home-helen.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\home-helen.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/home-jamie.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\home-jamie.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/home-john.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\home-john.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/home-kevin.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\home-kevin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/home-woward.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\home-woward.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/icon-1024x269.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\icon-1024x269.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/IOL.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\IOL.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/lasiksurgery.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\lasiksurgery.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/LOGOS_02.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\LOGOS_02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/LOGOS_05.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\LOGOS_05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/LOGOS_06.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\LOGOS_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/LOGOS_09.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\LOGOS_09.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/LOGOS_11.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\LOGOS_11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/LOGOS_14.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\LOGOS_14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/man-with-glasses-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\man-with-glasses-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/near-home-con.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\near-home-con.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/nearsightedness-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\nearsightedness-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/office-300x225.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\office-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/P1030013-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\P1030013-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/pres-home-con.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\pres-home-con.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/prk.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\prk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/Reception1.jpeg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\Reception1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/tlc-bio-dr-lekhi-nologo.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\tlc-bio-dr-lekhi-nologo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/inline-images/VANWESTENBRUGGE_small-1.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\inline-images\VANWESTENBRUGGE_small-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/js/js_4ZXKsnVIkHGm-Hc-Ax5KlX5UMbZw_c8uzPYWtXNP_l4.js
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\js\js_4ZXKsnVIkHGm-Hc-Ax5KlX5UMbZw_c8uzPYWtXNP_l4.js
+Content Type: text/javascript
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/js/js_rs1wgc1cs_KAAKI_B9X7cZ2uRJ67CkCJB0Yo3Eda8Wc.js
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\js\js_rs1wgc1cs_KAAKI_B9X7cZ2uRJ67CkCJB0Yo3Eda8Wc.js
+Content Type: text/javascript
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-02/admin-ajax (1).jpg?itok=5fYViOfP
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-02\admin-ajax (1).jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-02/admin-ajax (1)_0_0.jpg?itok=pcXZQMtb
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-02\admin-ajax (1)_0_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-02/admin-ajax (1)_0_1.jpg?itok=ipbNnxDw
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-02\admin-ajax (1)_0_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-02/admin-ajax (1)_0_2.jpg?itok=EOl6UjTS
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-02\admin-ajax (1)_0_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-02/admin-ajax.jpeg?itok=ZViM94P-
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-02\admin-ajax.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-02/favicon-150x150 (1).png?itok=eyIhD-P8
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-02\favicon-150x150 (1).png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-03/3.jpg?itok=kX5bfbbg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-03\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-03/admin-ajax (1).jpg?itok=JJ9tV8B7
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-03\admin-ajax (1).jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-03/Dr-Gimbel-300x199_0.jpg?itok=wDi28wMr
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-03\Dr-Gimbel-300x199_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-03/Man-with-Cataracts-300x169.jpg?itok=e9wr0u5Q
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-03\Man-with-Cataracts-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/blog_thumbnails/public/2022-04/admin-ajax.jpeg?itok=mItwEFgb
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\blog_thumbnails\public\2022-04\admin-ajax.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/sites/default/files/styles/large/public/2021-10/admin-ajax (1).jpg?itok=Zj6LmxbR
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\sites\default\files\styles\large\public\2021-10\admin-ajax (1).jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/taxonomy/term/1/feed
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\taxonomy\term\1\feed
+Content Type: application/rss+xml
+
+Uri: https://www.gimbeleyecentre.com/taxonomy/term/2/feed
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\taxonomy\term\2\feed
+Content Type: application/rss+xml
+
+Uri: https://www.gimbeleyecentre.com/taxonomy/term/3/feed
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\taxonomy\term\3\feed
+Content Type: application/rss+xml
+
+Uri: https://www.gimbeleyecentre.com/testimonials
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\testimonials.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/icon/Flaticon.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\icon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/icon/Flaticon.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\icon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/icon/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\icon\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/icon/Flaticon.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\icon\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/css/icon/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\css\icon\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerBold.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerBold.otf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerBold.otf
+Content Type: font/otf
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerBold.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerBold.ttf
+Content Type: font/ttf
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerBold.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerBold.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerMedium.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerMedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerMedium.otf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerMedium.otf
+Content Type: font/otf
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerMedium.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerMedium.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerMedium.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerMedium.ttf
+Content Type: font/ttf
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerMedium.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerMedium.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerRegular.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerRegular.otf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerRegular.otf
+Content Type: font/otf
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerRegular.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerRegular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerRegular.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerRegular.ttf
+Content Type: font/ttf
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/fonts/gilmer/GilmerRegular.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\fonts\gilmer\GilmerRegular.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/images/arrow-workflow-right.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\images\arrow-workflow-right.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/images/arrow-workflow.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\images\arrow-workflow.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/images/bg-footer.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\images\bg-footer.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/images/curve-bg.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\images\curve-bg.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/images/forum-default.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\images\forum-default.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/images/forum-icons.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\images\forum-icons.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/images/grid-slide.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\images\grid-slide.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/images/icon-play-2.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\images\icon-play-2.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/images/testimonial-icon.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\images\testimonial-icon.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/owl-carousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\owl-carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/default/loader.gif
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/default/sprite.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/prettyphoto/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\prettyphoto\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/gavias_daudo/vendor/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\gavias_daudo\vendor\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/lasikmd.eot
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\lasikmd.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/lasikmd.ttf
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\lasikmd.ttf
+Content Type: font/ttf
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/lasikmd.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\lasikmd.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyBlack/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyBlack\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyBlack/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyBlack\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyBlackItalic/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyBlackItalic\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyBlackItalic/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyBlackItalic\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyBold/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyBold\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyBold/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyBold\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyBoldItalic/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyBoldItalic\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyBoldItalic/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyBoldItalic\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyExtraBold/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyExtraBold\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyExtraBold/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyExtraBold\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyExtraBoldItalic/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyExtraBoldItalic\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyExtraBoldItalic/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyExtraBoldItalic\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyHeavy/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyHeavy\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyHeavy/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyHeavy\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyHeavyItalic/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyHeavyItalic\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyHeavyItalic/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyHeavyItalic\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyLight/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyLight\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyLight/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyLight\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyLightItalic/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyLightItalic\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyLightItalic/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyLightItalic\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyMedium/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyMedium\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyMedium/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyMedium\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyMediumItalic/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyMediumItalic\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyMediumItalic/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyMediumItalic\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyRegular/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyRegular\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyRegular/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyRegular\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyRegularItalic/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyRegularItalic\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyRegularItalic/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyRegularItalic\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroySemiBold/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroySemiBold\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroySemiBold/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroySemiBold\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroySemiBoldItalic/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroySemiBoldItalic\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroySemiBoldItalic/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroySemiBoldItalic\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyThin/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyThin\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyThin/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyThin\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyThinItalic/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyThinItalic\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyThinItalic/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyThinItalic\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyUltraLight/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyUltraLight\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyUltraLight/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyUltraLight\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyUltraLightItalic/font.woff
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyUltraLightItalic\font.woff
+Content Type: font/woff
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/fonts/webFonts/GilroyUltraLightItalic/font.woff2
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\fonts\webFonts\GilroyUltraLightItalic\font.woff2
+Content Type: font/woff2
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/img/bg.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\img\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/img/bullet-logo.svg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\img\bullet-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/img/home-team-bg.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\img\home-team-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/img/home-testi-bg.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\img\home-testi-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/img/location-icons-reseaux-sociaux---fb.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\img\location-icons-reseaux-sociaux---fb.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/img/location-icons-reseaux-sociaux--googleplus.png
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\img\location-icons-reseaux-sociaux--googleplus.png
+Content Type: image/png
+
+Uri: https://www.gimbeleyecentre.com/themes/vision/img/sb-bg1.jpg
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\themes\vision\img\sb-bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gimbeleyecentre.com/vision-correction
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\vision-correction.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/vision-correction/cataract
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\vision-correction\cataract.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/vision-correction/collagen-cross-linking
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\vision-correction\collagen-cross-linking.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/vision-correction/enhancements
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\vision-correction\enhancements.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/vision-correction/intraocular-lens-implants-iol
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\vision-correction\intraocular-lens-implants-iol.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/vision-correction/lasik
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\vision-correction\lasik.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/vision-correction/lipiflow-dry-eye-treatment
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\vision-correction\lipiflow-dry-eye-treatment.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/vision-correction/lipiflow-dry-eye-treatment?image=/sites/default/files/inline-images/GEC-DEE_0.jpg&file=/sites/default/files/2022-03/GEC-DEE.mp4
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\vision-correction\lipiflow-dry-eye-treatment-1.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/vision-correction/refractive-keratectomy
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\vision-correction\refractive-keratectomy.html
+Content Type: text/html
+
+Uri: https://www.gimbeleyecentre.com/vision-correction/refractive-lens-exchange
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\vision-correction\refractive-lens-exchange.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js?hl=en
+File Name: C:\Downloaded Web Sites\www.gimbeleyecentre.com\recaptcha\api.js
+Content Type: text/javascript
+

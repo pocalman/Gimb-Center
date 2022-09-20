@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Jomolhari';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/jomolhari/v14/EvONzA1M1Iw_CBd2hsQCFw.ttf) format('truetype');
+}
